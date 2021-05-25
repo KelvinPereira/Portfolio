@@ -1,0 +1,29 @@
+.loginContainer{
+    margin-top: 80px;
+    height: 87.6vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: silver;
+}
+
+.loginForm{
+    width: 200px;
+    height: 250px;
+    padding: 20px;
+    background: tomato;
+    margin-top: 150px;
+}
+
+.loginTitle{
+    text-align: center;
+}
+
+.loginButton{
+    width: 100%;
+}
+
+.loginInput{
+    width: 100%;
+}
+

@@ -1,0 +1,35 @@
+.aboutContainer{
+    margin-top: 80px;
+    height: 87.4vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    background: silver;
+}
+
+.aboutText{
+    margin: 70px;
+    text-align: left;
+}
+
+.infPersonal{
+    border: 1px solid black;
+    text-align: left;
+    width: 220px;
+    background: tomato;
+}
+
+.aboutimage{
+align-items: right;
+margin: 100px;
+
+}
+
+#imgRound{
+    border-radius: 50%;
+    border: 2px solid tomato;
+}
+
+.aboutH2{
+    text-align: left;
+}

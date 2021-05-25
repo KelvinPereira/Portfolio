@@ -1,0 +1,7 @@
+.projectItemContainer {
+    width: 450px;
+    height: 100px;
+    border: 2px solid tomato;
+    margin: 20px;
+    text-align: left;
+  }

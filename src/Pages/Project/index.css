@@ -1,0 +1,19 @@
+.projectContainer{
+    margin-top: 80px;
+    background: aliceblue;
+    height: 87.4vh;
+    width: 100%;
+    text-align: center;
+    background: silver;
+}
+  
+.projectH2 {
+    padding: 50px;
+
+}
+  
+.projectList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
